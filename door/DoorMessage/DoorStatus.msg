@@ -1,0 +1,2 @@
+int32 location
+bool Door_is_Open
